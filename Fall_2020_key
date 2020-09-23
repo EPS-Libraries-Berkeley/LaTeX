@@ -12,10 +12,8 @@
 \usepackage[table]{xcolor}
 \usepackage{adjustbox}
 \usepackage{graphicx}
-%\usepackage{natbib}
 \usepackage[backend=biber,style=authoryear]{biblatex}
 \usepackage[margin=0.75in]{geometry}
-%\bibliographystyle{naturemag}
 \addbibresource{references.bib}
 
 \title{Introduction to \LaTeX\ Assignment}
