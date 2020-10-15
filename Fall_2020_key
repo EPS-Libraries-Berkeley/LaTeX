@@ -12,6 +12,7 @@
 \usepackage[table]{xcolor}
 \usepackage{adjustbox}
 \usepackage{graphicx}
+\usepackage{float}
 \usepackage[backend=biber,style=authoryear]{biblatex}
 \usepackage[margin=0.75in]{geometry}
 \addbibresource{references.bib}
